@@ -1,0 +1,1 @@
+# boxomatic vagrant images
