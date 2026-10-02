@@ -1,0 +1,27 @@
+{
+  "name": "boxomatic/centos-8",
+  "description": "CentOS 8",
+  "versions": [
+    {
+      "version": "20261001.0.1",
+      "providers": [
+        {
+          "name": "libvirt",
+          "url": "https://github.com/boxomatic-images/boxes/releases/download/centos-8-amd64-libvirt-v20261001.0.1/boxomatic-centos-8-amd64-libvirt.box",
+          "checksum_type": "sha256",
+          "checksum": "e90d217d1be0e9ff691fca400547370a7fc400689322ff8e39fbce0021a47658",
+          "architecture": "amd64",
+          "default_architecture": true
+        },
+        {
+          "name": "virtualbox",
+          "url": "https://github.com/boxomatic-images/boxes/releases/download/centos-8-amd64-virtualbox-v20261001.0.1/boxomatic-centos-8-amd64-virtualbox.box",
+          "checksum_type": "sha256",
+          "checksum": "dd417407f3f82d7bd629044ea205726b68fb75cc9f428fed7e7b10d481f6a4b0",
+          "architecture": "amd64",
+          "default_architecture": true
+        }
+      ]
+    }
+  ]
+}

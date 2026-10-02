@@ -1,0 +1,27 @@
+{
+  "name": "boxomatic/debian-11-mate",
+  "description": "Debian 11 with Mate Desktop",
+  "versions": [
+    {
+      "version": "20261002.0.1",
+      "providers": [
+        {
+          "name": "libvirt",
+          "url": "https://github.com/boxomatic-images/boxes/releases/download/debian-11-mate-amd64-libvirt-v20261002.0.1/boxomatic-debian-11-mate-amd64-libvirt.box",
+          "checksum_type": "sha256",
+          "checksum": "f85f9ef8efc06db165e9570cf0a2701aab65b380d2cc2dc4e5947b003d05c62f",
+          "architecture": "amd64",
+          "default_architecture": true
+        },
+        {
+          "name": "virtualbox",
+          "url": "https://github.com/boxomatic-images/boxes/releases/download/debian-11-mate-amd64-virtualbox-v20261002.0.1/boxomatic-debian-11-mate-amd64-virtualbox.box",
+          "checksum_type": "sha256",
+          "checksum": "f1de79403b9b50e6241341ca04b526f4ee98a974a7f4caba07a58f8c140ff6f1",
+          "architecture": "amd64",
+          "default_architecture": true
+        }
+      ]
+    }
+  ]
+}

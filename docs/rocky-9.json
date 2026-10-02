@@ -1,0 +1,27 @@
+{
+  "name": "boxomatic/rocky-9",
+  "description": "Rocky Linux 9",
+  "versions": [
+    {
+      "version": "20261001.0.1",
+      "providers": [
+        {
+          "name": "libvirt",
+          "url": "https://github.com/boxomatic-images/boxes/releases/download/rocky-9-amd64-libvirt-v20261001.0.1/boxomatic-rocky-9-amd64-libvirt.box",
+          "checksum_type": "sha256",
+          "checksum": "3aac4279843d891e2a75d62609e917bbd486a6b50a24b86d7b188f65456b878b",
+          "architecture": "amd64",
+          "default_architecture": true
+        },
+        {
+          "name": "virtualbox",
+          "url": "https://github.com/boxomatic-images/boxes/releases/download/rocky-9-amd64-virtualbox-v20261001.0.1/boxomatic-rocky-9-amd64-virtualbox.box",
+          "checksum_type": "sha256",
+          "checksum": "2be659c9fcebc6c9dff4b9c6c78e69e8382c3a55fb0f4909b77877ef33ab8723",
+          "architecture": "amd64",
+          "default_architecture": true
+        }
+      ]
+    }
+  ]
+}

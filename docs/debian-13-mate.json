@@ -1,0 +1,27 @@
+{
+  "name": "boxomatic/debian-13-mate",
+  "description": "Debian 13 with Mate Desktop",
+  "versions": [
+    {
+      "version": "20261002.0.1",
+      "providers": [
+        {
+          "name": "libvirt",
+          "url": "https://github.com/boxomatic-images/boxes/releases/download/debian-13-mate-amd64-libvirt-v20261002.0.1/boxomatic-debian-13-mate-amd64-libvirt.box",
+          "checksum_type": "sha256",
+          "checksum": "f824b410cd9b6dab41b3425de6c26b902381e4c9feb89da52c72499fc21f77de",
+          "architecture": "amd64",
+          "default_architecture": true
+        },
+        {
+          "name": "virtualbox",
+          "url": "https://github.com/boxomatic-images/boxes/releases/download/debian-13-mate-amd64-virtualbox-v20261002.0.1/boxomatic-debian-13-mate-amd64-virtualbox.box",
+          "checksum_type": "sha256",
+          "checksum": "7674028f8b9771d152e48c74eb1d3b9b54762f3401be59b295db2cd37a8fe79a",
+          "architecture": "amd64",
+          "default_architecture": true
+        }
+      ]
+    }
+  ]
+}

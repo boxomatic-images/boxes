@@ -1,0 +1,27 @@
+{
+  "name": "boxomatic/debian-10",
+  "description": "Debian 10",
+  "versions": [
+    {
+      "version": "20261002.0.1",
+      "providers": [
+        {
+          "name": "libvirt",
+          "url": "https://github.com/boxomatic-images/boxes/releases/download/debian-10-amd64-libvirt-v20261002.0.1/boxomatic-debian-10-amd64-libvirt.box",
+          "checksum_type": "sha256",
+          "checksum": "c5c31714a1b820512f4602013eda24f172cbe493375afb43553d0f6289356b16",
+          "architecture": "amd64",
+          "default_architecture": true
+        },
+        {
+          "name": "virtualbox",
+          "url": "https://github.com/boxomatic-images/boxes/releases/download/debian-10-amd64-virtualbox-v20261002.0.1/boxomatic-debian-10-amd64-virtualbox.box",
+          "checksum_type": "sha256",
+          "checksum": "782de0992dbbde3e68aebc84bbbff2caea0ccddaad9eed8552a0bacb7d0e2e67",
+          "architecture": "amd64",
+          "default_architecture": true
+        }
+      ]
+    }
+  ]
+}

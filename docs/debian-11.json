@@ -1,0 +1,27 @@
+{
+  "name": "boxomatic/debian-11",
+  "description": "Debian 11",
+  "versions": [
+    {
+      "version": "20261002.0.1",
+      "providers": [
+        {
+          "name": "libvirt",
+          "url": "https://github.com/boxomatic-images/boxes/releases/download/debian-11-amd64-libvirt-v20261002.0.1/boxomatic-debian-11-amd64-libvirt.box",
+          "checksum_type": "sha256",
+          "checksum": "693918ed3a03e73a35019d369f2d8ede38b3b478afdef93bd3dc255a4c6beff2",
+          "architecture": "amd64",
+          "default_architecture": true
+        },
+        {
+          "name": "virtualbox",
+          "url": "https://github.com/boxomatic-images/boxes/releases/download/debian-11-amd64-virtualbox-v20261002.0.1/boxomatic-debian-11-amd64-virtualbox.box",
+          "checksum_type": "sha256",
+          "checksum": "3425ab5795fa9413c169b1c4ebd103951c7766d173a3f72ff45a0920a6260a1a",
+          "architecture": "amd64",
+          "default_architecture": true
+        }
+      ]
+    }
+  ]
+}

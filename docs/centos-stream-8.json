@@ -1,0 +1,27 @@
+{
+  "name": "boxomatic/centos-stream-8",
+  "description": "CentOS Stream 8",
+  "versions": [
+    {
+      "version": "20261001.0.1",
+      "providers": [
+        {
+          "name": "libvirt",
+          "url": "https://github.com/boxomatic-images/boxes/releases/download/centos-stream-8-amd64-libvirt-v20261001.0.1/boxomatic-centos-stream-8-amd64-libvirt.box",
+          "checksum_type": "sha256",
+          "checksum": "0838b5f3a82cee29e53ca0f2e8440cf4a2727654661e41bd8056d66762d53cb9",
+          "architecture": "amd64",
+          "default_architecture": true
+        },
+        {
+          "name": "virtualbox",
+          "url": "https://github.com/boxomatic-images/boxes/releases/download/centos-stream-8-amd64-virtualbox-v20261001.0.1/boxomatic-centos-stream-8-amd64-virtualbox.box",
+          "checksum_type": "sha256",
+          "checksum": "18a7906aad2063cc08753bfa0d15842ada57a182d7535f5b124ce5d09e2a79bf",
+          "architecture": "amd64",
+          "default_architecture": true
+        }
+      ]
+    }
+  ]
+}
