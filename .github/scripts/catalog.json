@@ -1,0 +1,137 @@
+{
+	"almalinux-8": {
+		"description": "Alma Linux 8"
+	},
+	"almalinux-9": {
+		"description": "Alma Linux 9"
+	},
+	"almalinux-10": {
+		"description": "Alma Linux 10"
+	},
+	"alpine-3.16": {
+		"description": "Alpine 3.16"
+	},
+	"alpine-3.17": {
+		"description": "Alpine 3.17"
+	},
+	"alpine-3.18": {
+		"description": "Alpine 3.18"
+	},
+	"alpine-3.19": {
+		"description": "Alpine 3.19"
+	},
+	"alpine-3.20": {
+		"description": "Alpine 3.20"
+	},
+	"alpine-3.21": {
+		"description": "Alpine 3.21"
+	},
+	"alpine-3.22": {
+		"description": "Alpine 3.22"
+	},
+	"alpine-3.23": {
+		"description": "Alpine 3.23"
+	},
+	"alpine-3.24": {
+		"description": "Alpine 3.24"
+	},
+	"centos-7": {
+		"description": "CentOS 7"
+	},
+	"centos-8": {
+		"description": "CentOS 8"
+	},
+	"centos-stream-8": {
+		"description": "CentOS Stream 8"
+	},
+	"centos-stream-9": {
+		"description": "CentOS Stream 9"
+	},
+	"centos-stream-10": {
+		"description": "CentOS Stream 10"
+	},
+	"debian-10": {
+		"description": "Debian 10"
+	},
+	"debian-10-mate": {
+		"description": "Debian 10 with Mate Desktop"
+	},
+	"debian-11": {
+		"description": "Debian 11"
+	},
+	"debian-11-mate": {
+		"description": "Debian 11 with Mate Desktop"
+	},
+	"debian-12": {
+		"description": "Debian 12"
+	},
+	"debian-12-mate": {
+		"description": "Debian 12 with Mate Desktop"
+	},
+	"debian-13": {
+		"description": "Debian 13"
+	},
+	"debian-13-mate": {
+		"description": "Debian 13 with Mate Desktop"
+	},
+	"debian-14": {
+		"description": "Debian 14"
+	},
+	"debian-14-mate": {
+		"description": "Debian 14 with Mate Desktop"
+	},
+	"devuan-4": {
+		"description": "Devuan 4"
+	},
+	"devuan-5": {
+		"description": "Devuan 5"
+	},
+	"devuan-6": {
+		"description": "Devuan 6"
+	},
+	"devuan-7": {
+		"description": "Devuan 7"
+	},
+	"fedora-43": {
+		"description": "Fedora 43"
+	},
+	"fedora-44": {
+		"description": "Fedora 44"
+	},
+	"fedora-45": {
+		"description": "Fedora 45"
+	},
+	"opensuse-leap-15": {
+		"description": "openSUSE Leap 15"
+	},
+	"opensuse-leap-16": {
+		"description": "openSUSE Leap 16"
+	},
+	"opensuse-tumbleweed": {
+		"description": "openSUSE Tumbleweed"
+	},
+	"rocky-8": {
+		"description": "Rocky Linux 8"
+	},
+	"rocky-9": {
+		"description": "Rocky Linux 9"
+	},
+	"rocky-10": {
+		"description": "Rocky Linux 10"
+	},
+	"ubuntu-18.04": {
+		"description": "Ubuntu 18.04"
+	},
+	"ubuntu-20.04": {
+		"description": "Ubuntu 20.04"
+	},
+	"ubuntu-22.04": {
+		"description": "Ubuntu 22.04"
+	},
+	"ubuntu-24.04": {
+		"description": "Ubuntu 24.04"
+	},
+	"ubuntu-26.04": {
+		"description": "Ubuntu 26.04"
+	}
+}

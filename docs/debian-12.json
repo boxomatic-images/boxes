@@ -1,0 +1,19 @@
+{
+  "name": "boxomatic/debian-12",
+  "description": "Debian 12",
+  "versions": [
+    {
+      "version": "20261001.0.1",
+      "providers": [
+        {
+          "name": "libvirt",
+          "url": "https://github.com/boxomatic-images/boxes/releases/download/debian-12-amd64-libvirt-v20261001.0.1/boxomatic-debian-12-amd64-libvirt.box",
+          "checksum_type": "sha256",
+          "checksum": "995260caa520b2020f1f333feb75c7940726858fd66c636694efadadea8cd0e9",
+          "architecture": "amd64",
+          "default_architecture": true
+        }
+      ]
+    }
+  ]
+}

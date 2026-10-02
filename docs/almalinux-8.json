@@ -1,0 +1,27 @@
+{
+  "name": "boxomatic/almalinux-8",
+  "description": "Alma Linux 8",
+  "versions": [
+    {
+      "version": "20261001.0.1",
+      "providers": [
+        {
+          "name": "libvirt",
+          "url": "https://github.com/boxomatic-images/boxes/releases/download/almalinux-8-amd64-libvirt-v20261001.0.1/boxomatic-almalinux-8-amd64-libvirt.box",
+          "checksum_type": "sha256",
+          "checksum": "799b6e197a0086acd8313328628ec07d6cc8cd8bab72671cf2be2210284d577f",
+          "architecture": "amd64",
+          "default_architecture": true
+        },
+        {
+          "name": "virtualbox",
+          "url": "https://github.com/boxomatic-images/boxes/releases/download/almalinux-8-amd64-virtualbox-v20261001.0.1/boxomatic-almalinux-8-amd64-virtualbox.box",
+          "checksum_type": "sha256",
+          "checksum": "27c7ba09a1618ac1df46832d009c99605cc6e6865ee4a608e724d9d36f72d74a",
+          "architecture": "amd64",
+          "default_architecture": true
+        }
+      ]
+    }
+  ]
+}

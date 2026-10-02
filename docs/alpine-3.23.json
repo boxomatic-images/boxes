@@ -1,0 +1,27 @@
+{
+  "name": "boxomatic/alpine-3.23",
+  "description": "Alpine 3.23",
+  "versions": [
+    {
+      "version": "20260930.0.1",
+      "providers": [
+        {
+          "name": "libvirt",
+          "url": "https://github.com/boxomatic-images/boxes/releases/download/alpine-3.23-amd64-libvirt-v20260930.0.1/boxomatic-alpine-3.23-amd64-libvirt.box",
+          "checksum_type": "sha256",
+          "checksum": "e1cc059ca088b74b9a01827cc272dafcc51a864f32135c8c6a47dfef61c0bf3f",
+          "architecture": "amd64",
+          "default_architecture": true
+        },
+        {
+          "name": "virtualbox",
+          "url": "https://github.com/boxomatic-images/boxes/releases/download/alpine-3.23-amd64-virtualbox-v20260930.0.1/boxomatic-alpine-3.23-amd64-virtualbox.box",
+          "checksum_type": "sha256",
+          "checksum": "1207dd8b427648f7d246eac2448a8940f0ea4681cfd67ad5755570e65389e9e3",
+          "architecture": "amd64",
+          "default_architecture": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "boxomatic/debian-14",
+  "description": "Debian 14",
+  "versions": [
+    {
+      "version": "20261001.0.1",
+      "providers": [
+        {
+          "name": "libvirt",
+          "url": "https://github.com/boxomatic-images/boxes/releases/download/debian-14-amd64-libvirt-v20261001.0.1/boxomatic-debian-14-amd64-libvirt.box",
+          "checksum_type": "sha256",
+          "checksum": "ab3e46e9d0d5ba8f7bded88b0702b28ca0e09ca7b0820a88415dfc94502f03bc",
+          "architecture": "amd64",
+          "default_architecture": true
+        }
+      ]
+    }
+  ]
+}
